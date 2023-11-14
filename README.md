@@ -1,5 +1,11 @@
 # react-data-grid
 
+# FORKED BY JACOB CUTSHALL To IMPROVE MOBILE STYLING
+
+## INSTALLATION
+
+`npm install https://github.com/JacobCutshall/react-data-grid-forked/tarball/main`
+
 [![npm-badge]][npm-url]
 [![type-badge]][npm-url]
 [![size-badge]][size-url]
