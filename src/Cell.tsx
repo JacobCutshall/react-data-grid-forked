@@ -95,7 +95,7 @@ function Cell<R, SR>({
       aria-colspan={colSpan}
       aria-selected={isCellSelected}
       aria-readonly={!isEditable || undefined}
-      aria-label={column.name}
+      aria-label={column.name as string}
       tabIndex={tabIndex}
       className={className}
       style={getCellStyle(column, colSpan)}
